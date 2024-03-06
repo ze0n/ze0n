@@ -1,6 +1,6 @@
 # Hi, I am Konstantin
 
-- I live in Paris, France.
+- Based in Paris, France.
 - I'm Chief Research Officer and Sr. R&D Engineer at [Everix](https://everix.io).
 
 ## Connect with me
