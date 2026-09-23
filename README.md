@@ -23,24 +23,23 @@ I help companies solve complex problems across **AI, software, data and technica
 ### Tools
 | Project | Description |
 | --- | --- |
+| [Scientific Code Snippets and Visualizations](https://github.com/ze0n/scientific-code-samples) | Samples or snippets of code which can be usefull in future work. |
 | [time-reporting](https://github.com/ze0n/time-reporting) | The script builds a time report fusing data from several sources: git repositories, and Atlassian Jira. |
 | [user-scripts](https://github.com/ze0n/user-scripts) | Userscripts to add functionality to GitHub: Add a button "Expand" which expands automatically all comments on the PR page marked with "hidden items" or "hidden conversations" and initially requiring iterative manual clicking. |
-| [scientific-code-samples](https://github.com/ze0n/scientific-code-samples) | Samples or snippets of code which can be usefull in future work. |
-
 
 ### Publications
 | Project | Description |
 | --- | --- |
-| [conference-socialization-model](https://github.com/ze0n/conference-socialization-model) | NetLogo model of a conference coffee break, for a student masterclass on agent-based simulation. |
-| [research-portfolio](https://github.com/ze0n/research-portfolio) | Research portfolio as-of 2016 |
-| [publications](https://github.com/ze0n/publications) | |
+| [Talks and Courses](https://github.com/ze0n/publications) | |
+| [Conference Socialization Model](https://github.com/ze0n/conference-socialization-model) | NetLogo model of a conference coffee break, for a student masterclass on agent-based simulation. |
+| [Research Portfolio](https://github.com/ze0n/research-portfolio) | Research portfolio as-of 2016 |
 
 ### Hackathons & Competitions
 | Project | Description |
 | --- | --- |
-| [terrakhod](https://github.com/ze0n/terrakhod) | Driverless car 1:10 project for IronCar competition |
+| [Terrakhod](https://github.com/ze0n/terrakhod) | Driverless car 1:10 project for IronCar competition |
 | [sol-hack](https://github.com/ze0n/sol-hack) | Paris Blockchain Hackathon 2023 - Solana Team 2 |
-| [SpaceChallenge](https://github.com/ze0n/SpaceChallenge) | (fork) |
+| [SpaceChallenge](https://github.com/ze0n/SpaceChallenge) | NASA Space Apps Challenge 2014 |
 
 
 
