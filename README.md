@@ -23,6 +23,7 @@ I help companies solve complex problems across **AI, software, data and technica
 ### Tools
 | Project | Description |
 | --- | --- |
+| [Debug like a scientist](https://github.com/ze0n/dlas) | dlas instruments a quantitative .NET application at runtime and shows the values it reports as live charts. |
 | [Scientific Code Snippets and Visualizations](https://github.com/ze0n/scientific-code-samples) | Samples or snippets of code which can be usefull in future work. |
 | [time-reporting](https://github.com/ze0n/time-reporting) | The script builds a time report fusing data from several sources: git repositories, and Atlassian Jira. |
 | [user-scripts](https://github.com/ze0n/user-scripts) | Userscripts to add functionality to GitHub: Add a button "Expand" which expands automatically all comments on the PR page marked with "hidden items" or "hidden conversations" and initially requiring iterative manual clicking. |
